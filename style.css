@@ -10,8 +10,8 @@ border: 2px red solid;
 
 }
 
-.lista-topo {
+li, a {
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-color: aqua;
+color: rgb(255, 0, 0);
 
 }
