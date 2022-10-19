@@ -6,5 +6,12 @@ body {
 .topo {
 background-image: url(universo-arte.jpg);
 background-size: cover;
+border: 2px red solid;
+
 }
 
+.lista-topo {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: aqua;
+
+}
